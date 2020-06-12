@@ -4,4 +4,5 @@
 # Run Game
 Open cmd console, 
 navigate to location of WarCardGame.jar,
-# type: java -jar WarCardGame.jar
+Enter the following:
+> java -jar WarCardGame.jar
